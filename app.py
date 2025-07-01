@@ -15,7 +15,7 @@ def home():
         </style>
     </head>
     <body>
-        <h1>Hello from Flask app!</h1>
+        <h1>Hello Josh from Flask app!</h1>
         <p>CI/CD & Reverse Proxy Lab Python App</p>
     </body>
     </html>
